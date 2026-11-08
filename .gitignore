@@ -1,0 +1,5 @@
+~$*
+*.tmp
+*.bak
+.env
+__pycache__/

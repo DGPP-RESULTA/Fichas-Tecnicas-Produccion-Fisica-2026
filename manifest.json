@@ -1,0 +1,115 @@
+{
+  "origen": "W:\\SGS_2026\\fichas",
+  "n_archivos": 12,
+  "n_productos": 12,
+  "documentos": [
+    {
+      "original": "PP1001_3033251.docx",
+      "path": "fichas/PP1001/PP1001_3033251.docx",
+      "pp": "1001",
+      "producto": "3033251",
+      "additional": false,
+      "size_bytes": 44377,
+      "sha256": "b7bd796f94ed18e1f39799a61a89357f062846804e22dd3e99837483e8cf292b"
+    },
+    {
+      "original": "PP1001_3033254.docx",
+      "path": "fichas/PP1001/PP1001_3033254.docx",
+      "pp": "1001",
+      "producto": "3033254",
+      "additional": false,
+      "size_bytes": 48050,
+      "sha256": "bdba2e519edb226d247d7deb2b68f06ddb6eb28fb99c3b8a002e55a1bcf0f9c8"
+    },
+    {
+      "original": "PP1001_3033255.docx",
+      "path": "fichas/PP1001/PP1001_3033255.docx",
+      "pp": "1001",
+      "producto": "3033255",
+      "additional": false,
+      "size_bytes": 46016,
+      "sha256": "d52ff3dfd15cacb477ca99f74475e377f9c9bdb7b40ecd419e89b75204ef2f35"
+    },
+    {
+      "original": "PP0002_3033295_ATENCION_PARTO_NORMAL_FINAL.docx",
+      "path": "fichas/PP0002/PP0002_3033295_ATENCION_PARTO_NORMAL_FINAL.docx",
+      "pp": "0002",
+      "producto": "3033295",
+      "additional": false,
+      "size_bytes": 59056,
+      "sha256": "63cf5430a80351646abbb5e1785da696259531ed77edcdd6f40d39d6dd70757f"
+    },
+    {
+      "original": "PP0002_3033412_FAMILIAS_SALUDABLES_FINAL.docx",
+      "path": "fichas/PP0002/PP0002_3033412_FAMILIAS_SALUDABLES_FINAL.docx",
+      "pp": "0002",
+      "producto": "3033412",
+      "additional": false,
+      "size_bytes": 57387,
+      "sha256": "e5124ff56926880159279769bba25b457d54338a3135ee46c23514497316805b"
+    },
+    {
+      "original": "PP0017_3043983_.docx",
+      "path": "fichas/PP0017/PP0017_3043983_.docx",
+      "pp": "0017",
+      "producto": "3043983",
+      "additional": false,
+      "size_bytes": 43166,
+      "sha256": "6de13e3d89add70876b0e448cd0375a145a86db0b16255db61b113515ad3e552"
+    },
+    {
+      "original": "PP0024_3000004.docx",
+      "path": "fichas/PP0024/PP0024_3000004.docx",
+      "pp": "0024",
+      "producto": "3000004",
+      "additional": false,
+      "size_bytes": 39232,
+      "sha256": "68d933ec9dcc8e34d1585d825d7dd01751235c929acbc0e4e116f864c25a0c8c"
+    },
+    {
+      "original": "PP0024_3000366.docx",
+      "path": "fichas/PP0024/PP0024_3000366.docx",
+      "pp": "0024",
+      "producto": "3000366",
+      "additional": false,
+      "size_bytes": 33983,
+      "sha256": "ffbb229b69e724dc04d2f167eb1f6cdc2160269b7c4c20c263c2d7f06cfcf01c"
+    },
+    {
+      "original": "PP0024_3000372.docx",
+      "path": "fichas/PP0024/PP0024_3000372.docx",
+      "pp": "0024",
+      "producto": "3000372",
+      "additional": false,
+      "size_bytes": 33000,
+      "sha256": "93fb6aba78e76e63cfc55e7ddb514e4910f027d40d3edfeecdda94699ba84a27"
+    },
+    {
+      "original": "PP0131_3000699.docx",
+      "path": "fichas/PP0131/PP0131_3000699.docx",
+      "pp": "0131",
+      "producto": "3000699",
+      "additional": false,
+      "size_bytes": 47563,
+      "sha256": "107acfa708df5a83c0d9cd46cccb9f415578a2ef1fc6ab34f1c12179f466398b"
+    },
+    {
+      "original": "PP0131_3000700.docx",
+      "path": "fichas/PP0131/PP0131_3000700.docx",
+      "pp": "0131",
+      "producto": "3000700",
+      "additional": false,
+      "size_bytes": 41880,
+      "sha256": "05c43973edabb8c27dc7d2b4c7cb407a1304df211c2957a95b2464bca7163b3a"
+    },
+    {
+      "original": "PP0131_3000702.docx",
+      "path": "fichas/PP0131/PP0131_3000702.docx",
+      "pp": "0131",
+      "producto": "3000702",
+      "additional": false,
+      "size_bytes": 49169,
+      "sha256": "24a06cdfdf30b19f196bfec725693201342e6cc2060b786368df2f2008bed5fd"
+    }
+  ]
+}
